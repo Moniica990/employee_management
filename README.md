@@ -17,9 +17,7 @@ This project uses **Computer Vision** to distinguish between **customers** and *
 * Streamlit / Flask (for UI)
 * SQLite / CSV (for data storage)
 
-Sure! Here's the modified version of the **"🚀 How to Run"** and **"📂 Folder Structure"** sections for your repo: [https://github.com/Moniica990/employee\_management](https://github.com/Moniica990/employee_management)
 
----
 
 ## 🚀 How to Run
 
