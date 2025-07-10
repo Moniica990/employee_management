@@ -61,8 +61,15 @@ requirements.txt
 * Retail stores with staff access control
 
 
-![zeex](https://github.com/user-attachments/assets/dae2b2f8-d78e-4f1f-92b5-ec168e2eddc7)
+### 📺 computer vision model
 
+![image](https://github.com/user-attachments/assets/f2052e61-1c6a-4841-80d7-a97472109ae6)
+
+
+
+### 📽️ Working Demo
+
+https://github.com/user-attachments/assets/1cbee21e-4f65-4422-a8bb-fbf691d11e38
 
 
 
