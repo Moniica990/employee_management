@@ -1,7 +1,3 @@
-Here's a short and clear `README.md` for your **Employee Management System with Computer Vision**:
-
----
-
 # Employee Management System with Computer Vision
 
 This project uses **Computer Vision** to distinguish between **customers** and **employees** through facial recognition, streamlining attendance and access control in a workplace environment.
