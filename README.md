@@ -17,31 +17,44 @@ This project uses **Computer Vision** to distinguish between **customers** and *
 * Streamlit / Flask (for UI)
 * SQLite / CSV (for data storage)
 
+Sure! Here's the modified version of the **"🚀 How to Run"** and **"📂 Folder Structure"** sections for your repo: [https://github.com/Moniica990/employee\_management](https://github.com/Moniica990/employee_management)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/employee-management-vision.git
-cd employee-management-vision
+git clone https://github.com/Moniica990/employee_management.git
+cd employee_management
 
-# 2. Install dependencies
+# 2. Create and activate a virtual environment (optional but recommended)
+python -m venv env
+env\Scripts\activate      # On Windows
+source env/bin/activate   # On macOS/Linux
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the app
+# 4. Run the application
 python main.py
 ```
 
 ## 📂 Folder Structure
 
 ```
-📁 dataset/
-    ├── employees/
-    └── customers/
-📁 logs/
-    └── attendance.csv
-main.py
-requirements.txt
+📁 employee_management/
+├── 📁 dataset/
+│   ├── 📁 employees/
+│   └── 📁 customers/
+├── 📁 logs/
+│   └── attendance.csv
+├── 📄 main.py
+├── 📄 requirements.txt
 ```
+
+Let me know if you'd like a `📺 Demo` or `📊 Features` section updated as well!
+
 
 ## 📸 How It Works
 
